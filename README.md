@@ -1,6 +1,9 @@
 # Client-Server Chat Application
 
 A Java-based Client-Server Chat Application with a GUI, built using **Swing** for the interface and **Sockets** for communication. This project demonstrates real-time message exchange between a client and a server, supporting **bidirectional communication**.
+### 🎥 Live Demo:
+[![Watch the Demo](https://github.com/Arax007/Chat-Application/blob/main/Screenshots/Chat%20Application%20gif.gif)](https://github.com/Arax007/Chat-Application/blob/main/Screenshots/Chat%20Application%20gif.gif)
+
 
 ## ✨ Features
 - 📡 **Real-time communication** between client and server.
@@ -48,8 +51,19 @@ java Client
 - Messages are **instantly** displayed on both client and server interfaces.
 - Type `Abort` in the input field to **close the connection**.
 
-## 📸 Screenshots
-🚀 Coming soon!
+## 📸 Screenshots 
+### 📷 Screenshots:
+1. **Server Interface**
+   
+   ![Server Area](https://github.com/Arax007/Chat-Application/blob/main/Screenshots/Server%20Area%20Picture.png)
+
+2. **Client Interface**
+   
+   ![Client Area](https://github.com/Arax007/Chat-Application/blob/main/Screenshots/Client%20Area%20Picture.png)
+
+3. **Chatting View**
+   
+   ![Chatting Area](https://github.com/Arax007/Chat-Application/blob/main/Screenshots/chatting%20Area.png)
 
 ## 📌 About Me
 Hey there! I'm **Aryan Kumar**, a passionate Java Developer who enjoys working on real-world software challenges. I love building projects and learning new technologies. Feel free to check out my GitHub and connect with me!
@@ -58,5 +72,3 @@ Hey there! I'm **Aryan Kumar**, a passionate Java Developer who enjoys working o
 
 ## 🏆 Contributions
 Feel free to **fork** this repo, submit **issues**, or **pull requests** to improve this project!
-
-
